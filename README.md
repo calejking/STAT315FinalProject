@@ -16,3 +16,9 @@ This repository contains a reproducible data analysis workflow for our final STA
 Then open your browser and go to http://localhost:8888 and enter the access token printed in the terminal.
 
 From there, you should be able to freely navigate to the FinalProjectReport.ipynb file. 
+
+Download the vgsales.csv dataset from the repo.
+
+When prompted in the second codeblock of the Data Cleaning and Preparation section, upload the dataset to the notebook.
+
+At this point, the notebook will run smoothly.
